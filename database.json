@@ -76,6 +76,7 @@
         "price": 48000,
         "numberOfPerson": "per person",
         "Duration": "5 nights and 6 days",
+        "favourite": false,
         "package": "Holiday Package",
         "image":[
                     "https://www.frost.com/wp-content/uploads/2018/02/Dubai-Tourism-1080x675.jpg",
@@ -101,6 +102,7 @@
         "numberOfPerson": "per person",
         "Duration": "6 nights and 7 days",
         "package": "Holiday Package",
+        "favourite": false,
         "image": [
             "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,q_auto/v1/filestore/046rgvnoxfdhsh2cd3voghsgbxc0_1597330976_shutterstock_631736717.jpg",
             "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/4b/5e/c2/caption.jpg",
@@ -122,6 +124,7 @@
         "price": 35000,
         "numberOfPerson": "per person",
         "Duration": "4 nights and 5 days",
+        "favourite": false,
         "package": "Holiday Package",
         "image": [
             "https://img.traveltriangle.com/blog/wp-content/uploads/2019/07/cover-for-Tokyo-In-October.jpg",
@@ -143,6 +146,7 @@
         "price": 75000,
         "numberOfPerson": "per person",
         "Duration": "7 nights and 8 days",
+        "favourite": false,
         "package": "Adventure Package",
         "image":[
           "https://img.traveltriangle.com/blog/wp-content/uploads/2019/03/shutterstock_1120684004.jpg",
@@ -164,6 +168,7 @@
         "price": 2899,
         "numberOfPerson": "per person",
         "Duration": "7 days and 6 nights",
+        "favourite": false,
         "package": "Adventure Package",
         "image": [
             "https://www.planetware.com/photos-large/BRA/brazil-rio-cristo-redentor.jpg",
@@ -208,6 +213,7 @@
         "price": 1600,
         "numberOfPerson": "per person",
         "Duration": "3 nights and 4 days",
+        "favourite": false,
         "package": "Cultural Experience",
         "image": [
           "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/c0/b2/2c/caption.jpg?w=500&h=300&s=1&cx=558&cy=867&chk=v1_147d5fd6cc83e8b5f419",
@@ -230,6 +236,7 @@
         "price": 2200,
         "numberOfPerson": "per person",
         "Duration": "4 nights and 5 days",
+        "favourite": false,
         "package": "City Break",
         "image": [
             "https://img.traveltriangle.com/blog/wp-content/uploads/2019/12/cover-for-Places-To-Visit-In-Barcelona_16th-Dec.jpg",
@@ -251,6 +258,7 @@
         "price": 22000,
         "numberOfPerson": "per person",
         "Duration": "4 nights and 5 days",
+        "favourite": false,
         "package": "City Break Package",
         "image":[
                     "https://img.theculturetrip.com/450x/smart/wp-content/uploads/2021/03/featured-2a9j7f7-e1617295281328.jpg",
@@ -273,6 +281,7 @@
         "price": 32000,
         "numberOfPerson": "per person",
         "Duration": "6 nights and 7 days",
+        "favourite": false,
         "package": "Adventure Package",
         "image":[
                     "https://i.ytimg.com/vi/udnjumdFCYI/maxresdefault.jpg",
@@ -295,6 +304,7 @@
         "price": 45000,
         "numberOfPerson": "per person",
         "Duration": "7 nights and 8 days",
+        "favourite": false,
         "package": "Cultural Package",
         "image":[
                   "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Cinque_Terre_%28Italy%2C_October_2020%29_-_47_%2850543734182%29.jpg/800px-Cinque_Terre_%28Italy%2C_October_2020%29_-_47_%2850543734182%29.jpg?20210317150002",
@@ -317,6 +327,7 @@
         "price": 55000,
         "numberOfPerson": "per person",
         "Duration": "4 nights and 5 days",
+        "favourite": false,
         "package": "Adventure Package",
         "image":[
                 "https://www.machutravelperu.com/blog/wp-content/uploads/2020/05/meaning-of-machu-picchu-peru.jpg",
@@ -338,7 +349,8 @@
         "price": 25000,
         "numberOfPerson": "per person",
         "Duration": "3 nights and 4 days",
-        "package": "Nature and Culture Package",
+        "favourite": false,
+        "package": "Culture Package",
         "image":[
                   "https://images.squarespace-cdn.com/content/v1/5cd3f2ad90f90438b0058db5/1595734681274-0RBZFWNFQ9CIIVDG70FG/liam-simpson-umycmizZHn8-unsplash.jpg?format=300w",
                   "https://www.holidify.com/images/bgImages/MIZORAM.jpg",
@@ -360,7 +372,8 @@
         "price": 78000,
         "numberOfPerson": "per couple",
         "Duration": "7 nights and 8 days",
-        "package": "Romantic Getaway Package",
+        "favourite": false,
+        "package": "Holiday Package",
         "image":[
                     "https://globaleurope.eu/wp-content/uploads/sites/24/2018/09/marco-secchi-592865-unsplash.jpg.webp",
                     "https://static.toiimg.com/photo/msid-83834396/83834396.jpg",
@@ -382,6 +395,7 @@
         "price": 62000,
         "numberOfPerson": "per person",
         "Duration": "6 nights and 7 days",
+        "favourite": false,
         "package": "Adventure Package",
         "image":[
                     "https://thefreshtoast.com/wp-content/uploads/2020/09/australiacbd-e1600627542830.jpg",
@@ -403,7 +417,8 @@
         "price": 55000,
         "numberOfPerson": "per person",
         "Duration": "4 nights and 5 days",
-        "package": "Island Retreat Package",
+        "favourite": false,
+        "package": "Holiday Package",
         "image":[
                     "https://miro.medium.com/v2/resize:fit:720/0*JSZlm_sKyZB8JAUE",
                     "https://img.atlasobscura.com/28Si6eBlVzF52OTpOvNJdVSAoh-3uPiQR9blU1tGdvA/rs:fill:780:520:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84Y2Y4/ZjM4YWY5NDAwODNi/NTZfTHVjaHRmb3Rv/X2JvdXJ0YW5nZS5q/cGc.jpg",
@@ -425,7 +440,8 @@
         "price": 85000,
         "numberOfPerson": "per person",
         "Duration": "6 nights and 7 days",
-        "package": "Tropical Getaway",
+        "favourite": false,
+        "package": "Holiday Package",
         "image":[
                     "https://images.indianexpress.com/2022/10/palm-jumeirah-dubai.jpg?w=640",
                     "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/3d/fe/bb/views-from-blue-beards.jpg?w=500&h=300&s=1",
@@ -448,7 +464,8 @@
         "price": 12000,
         "numberOfPerson": "per person",
         "duration": "5 days and 4 nights",
-        "package": "City Tour Package",
+        "favourite": false,
+        "package": "Holiday Package",
         "image": [
                     "https://www.traveldailymedia.com/assets/2021/03/beijing3.jpg",
                     "https://www.planetware.com/wpimages/2018/09/china-beijing-attractions-great-wall-of-china.jpg",
